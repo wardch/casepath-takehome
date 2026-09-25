@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_USER: ledgerline
+      POSTGRES_PASSWORD: ledgerline
+      POSTGRES_DB: ledgerline
+    ports:
+      - "5433:5432"
+    volumes:
+      - ledgerline-db:/var/lib/postgresql/data
+
+volumes:
+  ledgerline-db:
