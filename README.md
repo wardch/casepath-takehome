@@ -6,7 +6,9 @@ Thanks for taking the time to do this. You'll build a small version of **Ledgerl
 
 **Time:** you have up to **3 days** from when you receive this to send it back. There's deliberately more here than most people will polish in that time, so prioritise: a working end-to-end flow beats three perfect screens. When you stop, tell us what you'd do next.
 
-**AI tools:** use whatever you normally would (Claude, Codex, Copilot...). In your README, tell us where they helped and where you had to step in.
+**AI tools:** use whatever you normally would. We recommend **Claude Code with Opus 5.5**. If you already have a subscription, **Codex with GPT-6** is a good alternative. In your README, tell us where they helped and where you had to step in.
+
+We'd suggest watching Matt Pocock's [complete AI coding workflow, end to end](https://www.youtube.com/watch?v=M6mYodf0dJM&t=37s) before you start. It's close to how we work: grill the idea, write a spec, break it into tickets, implement, then code review.
 
 ---
 
